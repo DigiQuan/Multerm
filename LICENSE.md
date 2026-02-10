@@ -1,6 +1,6 @@
 ﻿Multerm – Source-Available License
 
-Copyright (c) 2026 Owen Dyer
+Copyright (c) 2026 DigiQuan
 
 1. Permission for Personal Use
    - You are allowed to:
